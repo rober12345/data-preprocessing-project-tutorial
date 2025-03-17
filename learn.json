@@ -14,5 +14,7 @@
 	"solution": {
 		"us": "https://github.com/4GeeksAcademy/data-preprocessing-project-tutorial/blob/main/solution.ipynb",
 		"es": "https://github.com/4GeeksAcademy/data-preprocessing-project-tutorial/blob/main/solution.es.ipynb"
-	}
+	},
+	"gitpod": true,
+	"template_url":"https://github.com/4GeeksAcademy/machine-learning-python-template"
 }
